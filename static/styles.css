@@ -1,0 +1,23 @@
+:root {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: black;
+    margin: 0;
+}
+.hero {
+    background-image: url("/static/drawing-1.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 700px;
+    background-size: 700px 700px;
+    padding-top: 15px;
+}
+.title {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    height: 10%;    
+    text-align: center;
+    margin: 0;
+    color: white;
+    font-size: 90px;
+}
